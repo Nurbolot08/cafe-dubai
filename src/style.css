@@ -1,0 +1,86 @@
+
+
+.logo img{
+    width: 60px;
+    height: 60px;
+    background: none;
+}
+
+body{
+    background: url("https://gastronews.wien/restaurants/wp-content/uploads/2014/10/Franks-RTT.jpg") fixed center/cover;
+    height: 100vh;
+}
+
+.nav-item{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 17px;
+}
+
+.nav-item:hover{
+    color: grey;
+    text-decoration: none;
+}
+
+.menu{
+    margin-top: 20px;
+}
+
+.footer{
+    background: rgba(100, 100, 100, 0.5);
+    color: black;
+    padding: 10px;
+}
+
+.footer-items{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hero_section{
+    padding: 300px;
+}
+
+.title-hero{
+    margin-top: -150px;
+    text-align: center;
+    color: white;
+}
+.copyright{
+    text-align: center;
+}
+
+.card{
+    background: rgba(255,255,255, 0.5);
+    box-shadow: 15px 15px #305b52;
+    transition: 0.5s;
+}
+
+.card:hover{
+    box-shadow: 15px 15px 5px 5px #b0b0b0;
+}
+.dish{
+    padding: 150px;
+}
+
+.dish-item{
+    margin-top: -50px;
+    padding: 50px;
+    display: flex;
+    background: rgba(255,255,255, 0.5);
+    box-shadow: 15px 15px #305b52;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
